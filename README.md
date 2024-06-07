@@ -24,3 +24,15 @@ You can install the required packages using pip:
 
 ```bash
 pip install tensorflow numpy matplotlib pandas scikit-learn
+```
+
+## Running the code
+```
+git clone <repository-url>
+cd <repository-directory>
+```
+```
+jupyter notebook AI_Project.ipynb
+```
+## Dataset
+The dataset used in this project is Fashion MNIST, which can be automatically downloaded via TensorFlow.
